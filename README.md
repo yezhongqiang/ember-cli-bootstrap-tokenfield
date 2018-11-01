@@ -8,10 +8,13 @@ A convenient component that wraps around Bootstrap Tokenfield.
 
 Examples: http://aethermx.github.io/ember-cli-bootstrap-tokenfield/
 
+Upgrade its dependency 'babel' from 5 to 6.
+
 Supported versions:
 
  * ember 1.12
  * ember 1.13.2
+ * ember 2.18
 
 ## Addon Install 
 
